@@ -1,0 +1,135 @@
+img{
+    height: 130px;
+    width: fit-content;
+}
+
+header{
+    height: 100px;
+    width: 816px;
+    background-color: #CCFFCC;
+}
+
+#naammargriet{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #6600FF;
+    background-color: #CCCCFF;
+}
+#fotomargriet{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #CCCCCC;
+}
+
+#naamroos{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #FFCC00;
+    background-color: #CC3300;
+}
+#fotoroos{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #CC6600;
+}
+
+
+#naamnarcis{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #996600;
+    background-color: #FFFF00;
+}
+#fotonarcis{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #FFFFCC;
+}
+
+
+#naamlelie{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #FF3366;
+    background-color: #FFCCFF;
+}
+#fotolelie{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #FF99FF;
+}
+
+
+#naamkrokus{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #6666CC;
+}
+#fotokrokus{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #6633CC;
+}
+
+
+#naamorchidee{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #336633;
+    background-color: #99CC99;
+}
+#fotoorchidee{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #999966;
+}
+
+
+#naamtulp{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #FFFF66;
+    background-color: #CC6699;
+}
+#fototulp{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #CC3366;
+}
+
+
+#naamzonnebloem{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    color: #990033;
+    background-color: #FF9900;
+}
+#fotozonnebloem{
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    background-color: #FF6666;
+}
+
+
+footer{
+    height: 100px;
+    width: 816px;
+    background-color: #99CCCC;
+}
